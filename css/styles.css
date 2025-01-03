@@ -1,10 +1,10 @@
-body{
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #ffffff;  
+  background-color: #ffffff;
 }
 
-.logo-1 {
+.logo-leftside {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -15,7 +15,7 @@ body{
   text-decoration: none;
 }
 
-.logo-2 {
+.logo-rightside {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -41,11 +41,14 @@ body{
   color: #404bbf;
 }
 
+.contact-info {
+  font-style: normal;
+}
+
 .addresses {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
   color: #434455;
 }
 
@@ -100,6 +103,7 @@ body{
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 1.5;
+  color: #434455;
 }
 
 .our-team-sec {
@@ -160,7 +164,7 @@ body{
   color: #434455;
 }
 
-.logo-3 {
+.logo-otherrightside {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
